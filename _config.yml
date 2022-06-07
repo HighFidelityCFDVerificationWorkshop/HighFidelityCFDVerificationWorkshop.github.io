@@ -1,1 +1,6 @@
 theme: minima
+
+title: High-Fidelity CFD Verification Workshop
+
+header_pages:
+  - previous.md
