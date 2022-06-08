@@ -1,6 +1,14 @@
 ---
-title: SciTech 2024 | Orlando, Florida
+title: High-Fidelity CFD Verification Workshop (SciTech 2024)
 ---
+
+## Aims and scope
+
+- supporting new research in the field of high-fidelity CFD methods by providing verification cases to aid development and improvement of codes
+- identifying pacing items in high-fidelity methods and peripheral tools that need additional research and development in order to proliferate in the CFD community
+- facilitating collaboration and enhance mutual understanding among CFD researchers and practitioners in academia, government, and industry
+
+## SciTech 2024 workshop
 
 The workshop will be held in conjunction with SciTech 2024 in Orlando, Florida. Precise dates for the workshop will be updated here once confirmed.
 
