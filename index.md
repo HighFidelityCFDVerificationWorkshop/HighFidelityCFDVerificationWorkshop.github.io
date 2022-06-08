@@ -1,5 +1,7 @@
 ---
-title: High-Fidelity CFD Verification Workshop (SciTech 2024)
+title: |
+  | High-Fidelity CFD Verification Workshop 
+  | (SciTech 2024)
 ---
 
 ## Aims and scope
