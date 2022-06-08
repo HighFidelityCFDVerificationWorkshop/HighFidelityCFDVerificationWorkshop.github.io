@@ -2,7 +2,7 @@
 title: High-Fidelity CFD Verification Workshop <br> (SciTech 2024)
 ---
 
-<img src="/figures/les.png" height="200"> <img src="/figures/meshmotion.png" height="200"> <img src="/figures/shockvortex.png" height="200"> <img src="/figures/blotner.png" height="200">
+<img src="/figures/les.png" height="100"> <img src="/figures/meshmotion.png" height="100"> <img src="/figures/shockvortex.png" height="100"> <img src="/figures/blottner.png" height="100">
 
 ## Aims and scope
 
