@@ -1,7 +1,8 @@
+---
+title: SciTech 2024 | Orlando, Florida
+---
 
-# SciTech 2024 | Orlando, Florida
-
-The workshop itself will be held in conjunction with SciTech 2024 in Orlando, Florida. Precise dates for the workshop will be updated here once confirmed.
+The workshop will be held in conjunction with SciTech 2024 in Orlando, Florida. Precise dates for the workshop will be updated here once confirmed.
 
 ## SciTech 2023 pre-workshop special session
 
