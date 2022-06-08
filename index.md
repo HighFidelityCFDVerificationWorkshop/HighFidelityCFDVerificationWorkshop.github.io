@@ -2,6 +2,9 @@
 title: High-Fidelity CFD Verification Workshop <br> (SciTech 2024)
 ---
 
+![LES](/figures/les.png)
+
+
 ## Aims and scope
 
 - supporting new research in the field of high-fidelity CFD methods by providing verification cases to aid development and improvement of codes
