@@ -1,6 +1,11 @@
 theme: minima
 
 title: High-Fidelity CFD Verification Workshop
+author: Organizing committee
+email: 
+author:
+  name: Organizing committee
+  email: hfcfdw@gmail.com
 
 description: >
   An aerospace community effort towards verification of high-fidelity CFD methodologies.
