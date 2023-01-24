@@ -14,7 +14,7 @@ title: High-Fidelity CFD Verification Workshop <br> (SciTech 2024)
 
 ## SciTech 2024 workshop
 
-The workshop will be held in conjunction with SciTech 2024 in Orlando, Florida. Precise dates for the workshop will be updated here once confirmed.
+The workshop will be held in conjunction with SciTech 2024 in Orlando, Florida. **We are in the process of confirming precise dates with AIAA.**
 
 
 ## Test suites
@@ -31,22 +31,22 @@ The workshop is structured as a collection of test suites in different technical
 
 Please reach out to test suite leads to express interest in participating. The test suite leads are:
 
-- RANS (Marshall Galbraith galbramc@mit.edu)
-- LES (Johan Larsson jola@umd.edu)
-- Mesh Motion (Nathan Wukie nathan.wukie@us.af.mil)
-- SuperHypersonic (Matt Zahr mzahr@nd.edu)
+- **RANS lead:** Marshall Galbraith galbramc@mit.edu
+- **LES lead:** Johan Larsson jola@umd.edu
+- **Mesh Motion lead:** Nathan Wukie nathan.wukie@us.af.mil
+- **SuperHypersonic lead:** Matt Zahr mzahr@nd.edu
 
-Each test suite will conduct monthly collaboration meetings over 2023 leading up to the workshop in 2024. Those meeting schedules will be posted here for any interested participants to join. These will be posted around the beginning of February 2023 so please look back soon.
+**Each test suite will conduct monthly collaboration meetings over 2023 leading up to the workshop in 2024. Those meeting schedules will be posted here for any interested participants to join. These will be posted around the beginning of February 2023 so please look back soon.**
 
 
 ## Test suite resources
 
 Each test suite is outfitted with it's own github repository to facilitate communication, data dissemination and collection. The repositories for individual test suites can be found at:
 
-- [RANS](https://github.com/HighFidelityCFDVerificationWorkshop/2024RANS)
-- [LES](https://github.com/HighFidelityCFDVerificationWorkshop/2024LES)
-- [Mesh Motion](https://github.com/HighFidelityCFDVerificationWorkshop/2024MeshMotion)
-- [SuperHypersonic](https://github.com/HighFidelityCFDVerificationWorkshop/2024SuperHypersonic)  
+- [RANS GitHub repo](https://github.com/HighFidelityCFDVerificationWorkshop/2024RANS)
+- [LES GitHub repo](https://github.com/HighFidelityCFDVerificationWorkshop/2024LES)
+- [Mesh Motion GitHub repo](https://github.com/HighFidelityCFDVerificationWorkshop/2024MeshMotion)
+- [SuperHypersonic GitHub repo](https://github.com/HighFidelityCFDVerificationWorkshop/2024SuperHypersonic)  
 
 
 
