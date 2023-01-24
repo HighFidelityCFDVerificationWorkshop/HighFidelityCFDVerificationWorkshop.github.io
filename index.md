@@ -29,7 +29,7 @@ The workshop is structured as a collection of test suites in different technical
 
 ## Participation and engagement
 
-Please reach out to test suite leads to express interest in participating. The test suite leads are:
+Please reach out to test suite leads to express interest in participating! **Student participation is also very welcome.** The test suite leads are:
 
 - **RANS lead:** Marshall Galbraith galbramc@mit.edu
 - **LES lead:** Johan Larsson jola@umd.edu
