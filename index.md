@@ -37,7 +37,12 @@ Please reach out to test suite leads to express interest in participating! **Stu
 - **Mesh Motion lead:** Nathan Wukie nathan.wukie@us.af.mil
 - **SuperHypersonic lead:** Matt Zahr mzahr@nd.edu
 
-**Each test suite will conduct monthly collaboration meetings over 2023 leading up to the workshop in 2024. Those meeting schedules will be posted here for any interested participants to join. These will be posted around the beginning of February 2023 so please look back soon.**
+Individual test suites meet regularly and are the perfect opportunity for interested participants to get involved. The meeting schedules are
+
+- **RANS meetings:** Bi-monthly at 10am US Eastern Time Zone. Please contact Marshall Galbraith (galbramc@mit.edu) or Boris Diskin (boris.diskin@nianet.org) for a virtual meeting link.
+- **Mesh Motion meetings:** First Wednesday of every month at 3pm US Eastern Time Zone. https://meet.google.com/gtj-uqum-mzu
+- **LES meetings:** First Monday of every month at 12pm (noon) US Eastern Time. https://umd.zoom.us/j/4487374796
+- **SuperHypersonic meetings:** TBD
 
 
 ## Test suite resources
