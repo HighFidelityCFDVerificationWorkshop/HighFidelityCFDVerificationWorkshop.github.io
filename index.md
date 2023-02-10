@@ -42,7 +42,7 @@ Individual test suites meet regularly and are the perfect opportunity for intere
 - **RANS meetings:** Bi-monthly at 10am US Eastern Time Zone. Please contact Marshall Galbraith (galbramc@mit.edu) or Boris Diskin (boris.diskin@nianet.org) for a virtual meeting link.
 - **Mesh Motion meetings:** First Wednesday of every month at 3pm US Eastern Time Zone. https://meet.google.com/gtj-uqum-mzu
 - **LES meetings:** First Monday of every month at 12pm (noon) US Eastern Time. https://umd.zoom.us/j/4487374796
-- **SuperHypersonic meetings:** TBD
+- **SuperHypersonic meetings:** Second Thursday of every month at 11am Eastern Time Zone. Please contact Matt Zahr (mzahr@nd.edu) or Kevin Holst (kevin.holst@utk.edu) for a virtual meeting link.
 
 
 ## Test suite resources
