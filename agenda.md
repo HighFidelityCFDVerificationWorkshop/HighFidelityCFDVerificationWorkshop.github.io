@@ -4,7 +4,7 @@ title: Agenda
 ---
 
 <center>
-<img src="/resources/HFCFDVW2024_Agenda.png" height="200"> 
+<img src="/resources/HFCFDVW2024_Agenda.png" height="350"> 
 </center>
 
 - [HFCFDVW 2024 Agenda (pdf)](resources/HFCFDVW2024_Agenda.pdf)
