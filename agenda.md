@@ -3,9 +3,9 @@ layout: page
 title: Agenda
 ---
 
-[2024 HFCFDVW Agenda (pdf)](resources/HFCFDVW2_Agenda_1Dec2023.pdf)
+[HFCFDVW 2024 Agenda (pdf)](resources/HFCFDVW2024_Agenda.pdf)
 
 <center>
-<img src="/resources/HFCFDVW2_Agenda_1Dec2023.pdf" height="200"> 
+<img src="/resources/HFCFDVW2024_Agenda.png" height="200"> 
 </center>
 
