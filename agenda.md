@@ -3,6 +3,9 @@ layout: page
 title: Agenda
 ---
 
-Workshop agenda
+[2024 HFCFDVW Agenda (pdf)](resources/HFCFDVW2_Agenda_1Dec2023.pdf)
 
-(Update imminent)
+<center>
+<img src="/resources/HFCFDVW2_Agenda_1Dec2023.pdf" height="200"> 
+</center>
+
