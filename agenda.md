@@ -64,9 +64,9 @@ title: Agenda
 |                   |                                                           |
 | **10:15 - 10:30** | **Break**                                                 |
 |                   |                                                           |
-| **10:30 - 11:00** | **LES smooth ramp results + discussion**                  |
-| **11:00 - 11:30** | **LES airfoil ramp results + discussion**                 |
-| **11:30 - 12:00** | **LES general discussion**                                |
+| 10:30 - 11:00     | LES smooth ramp results + discussion                      |
+| 11:00 - 11:30     | LES airfoil ramp results + discussion                     |
+| 11:30 - 12:00     | LES general discussion                                    |
 |                   |                                                           |
 | **12:00 - 1:30**  | **Lunch on own (not provided)**                           |
 |                   |                                                           |
@@ -80,7 +80,7 @@ title: Agenda
 |                   |                                                           |
 | **2:40 - 3:00**   | **Break (Coffee + snack provided)**                       |
 |                   |                                                           |
-| 3:00 - 4:00       | **RANS results and discussion**                           |
+| 3:00 - 4:00       | RANS results and discussion                               |
 |                   |                                                           |
 | **4:00 - 4:45**   | **Open discussion**                                       |
 
