@@ -88,9 +88,3 @@ title: Agenda
 
 
 
-
-
-
-
-
-# Day 2: Sunday, 7 January 2024
