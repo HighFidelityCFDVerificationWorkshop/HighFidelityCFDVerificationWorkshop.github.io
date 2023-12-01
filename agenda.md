@@ -3,16 +3,14 @@ layout: page
 title: Agenda
 ---
 
-<center>
-<img src="/resources/HFCFDVW2024_Agenda.png" height="350"> 
-</center>
+<img src="/resources/HFCFDVW2024_Agenda.png" height="350">(resources/HFCFDVW2024_Agenda.pdf)
 
 - [HFCFDVW 2024 Agenda (pdf)](resources/HFCFDVW2024_Agenda.pdf)
 - Jump to [Agenda Day 1](#day-1-saturday-6-january-2024)
 - Jump to [Agenda Day 2](#day-2-sunday-7-january-2024)
 
 
-# Day 1: Saturday, 6 January 2024
+# Day 1: Saturday, 6 January 2024 &emsp; [return-to-top](agenda.md)
 
 | **7:15 - 8:00**   |  **Bagels + Coffee (Provided by AIAA)**                   |
 | 8:00 - 8:20       |  Welcome to the workshop! Nathan Wukie                    |
@@ -46,7 +44,7 @@ title: Agenda
 
 
 
-# Day 2: Sunday, 7 January 2024
+# Day 2: Sunday, 7 January 2024 &emsp; [return-to-top](agenda.md)
 
 | 07:15 - 08:00     |  Bagels + Coffee (Provided by AIAA)                       |
 |                   |                                                           |
