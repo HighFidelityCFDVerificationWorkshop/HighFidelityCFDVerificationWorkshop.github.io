@@ -20,6 +20,14 @@ title: Agenda
 
 
 
+> [! 08:20 - 10:20  &emsp; Test suite: Steady Super/Hypersonic ]
+>
+> - 08:20 - 08:40   &emsp; Overview: Matt Zahr & Kevin Holst
+>
+>
+
+
+
 
 
 
