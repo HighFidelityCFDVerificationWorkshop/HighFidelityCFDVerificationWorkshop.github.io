@@ -6,17 +6,17 @@ title: High-Fidelity CFD Verification Workshop <br> (SciTech 2024)
 <img src="/figures/les.png" height="110"> <img src="/figures/meshmotion.png" height="110"> <img src="/figures/shockvortex.png" height="110"> <img src="/figures/blottner.png" height="110">
 </center>
 
-## Aims and scope
+## **Aims and scope**
 
 - supporting new research in the field of high-fidelity CFD methods by providing verification cases to aid development and improvement of codes
 - identifying pacing items in high-fidelity methods and peripheral tools that need additional research and development in order to proliferate in the CFD community
 - facilitating collaboration and enhance mutual understanding among CFD researchers and practitioners in academia, government, and industry
 
-## 2024 Workshop
+## **2024 Workshop**
 
 The workshop will be held over two days January 6-7, 2024 in conjunction with SciTech 2024 in Orlando, Florida. Register now via the [AIAA SciTech Registration](https://www.aiaa.org/SciTech/registration) site.
 
-## Test suites
+## **Test suites**
 
 The workshop is structured as a collection of test suites in different technical areas. A special session was held at SciTech 2023 where each test suite documented their respective objectives and test campaigns. Those reference documents are accessible here:
 
@@ -26,7 +26,7 @@ The workshop is structured as a collection of test suites in different technical
 - [SuperHypersonic](papers/superhypersonic.pdf)
 
 
-## Participation and engagement
+## **Participation and engagement**
 
 Please reach out to test suite leads to express interest in participating! **Student participation is also very welcome.** The test suite leads are:
 
@@ -43,7 +43,7 @@ Individual test suites meet regularly and are the perfect opportunity for intere
 - **SuperHypersonic meetings:** Second Thursday of every month at 11am Eastern Time Zone. Please contact Matt Zahr (mzahr@nd.edu) or Kevin Holst (kevin.holst@utk.edu) for a virtual meeting link.
 
 
-## Test suite resources
+## **Test suite resources**
 
 Each test suite is outfitted with it's own github repository to facilitate communication, data dissemination and collection. The repositories for individual test suites can be found at:
 
