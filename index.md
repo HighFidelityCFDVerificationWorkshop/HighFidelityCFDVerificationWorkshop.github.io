@@ -14,9 +14,7 @@ title: High-Fidelity CFD Verification Workshop <br> (SciTech 2024)
 
 ## 2024 Workshop
 
-The workshop will be held over two days January 6-7, 2024 in conjunction with SciTech 2024 in Orlando, Florida.
-
-Registration will be conducted via AIAA's SciTech 2024 registration once it becomes available.
+The workshop will be held over two days January 6-7, 2024 in conjunction with SciTech 2024 in Orlando, Florida. Register now via the [AIAA SciTech Registration](https://www.aiaa.org/SciTech/registration) site.
 
 ## Test suites
 
