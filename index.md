@@ -1,6 +1,11 @@
 ---
-title: High-Fidelity CFD Verification Workshop <br> (SciTech 2024)
+title: **High-Fidelity CFD Verification Workshop** (SciTech 2024)
 ---
+
+<!---
+title: High-Fidelity CFD Verification Workshop <br> (SciTech 2024)
+--->
+
 
 <center>
 <img src="/figures/les.png" height="110"> <img src="/figures/meshmotion.png" height="110"> <img src="/figures/shockvortex.png" height="110"> <img src="/figures/blottner.png" height="110">
