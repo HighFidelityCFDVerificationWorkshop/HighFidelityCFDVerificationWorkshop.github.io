@@ -46,7 +46,7 @@ title: Agenda
 
 # Day 2: Sunday, 7 January 2024
 
-| 07:15 - 08:00     |  Bagels + Coffee (Provided by AIAA)                       |
+| **07:15 - 08:00** | **Bagels + Coffee (Provided by AIAA)**                    |
 |                   |                                                           |
 | **8:00 - 10:15**  | **Test suite: Large Eddy Simulation**                     |
 | 8:00 - 8:20       | Overview: Johan, Dan, Ivan                                |
