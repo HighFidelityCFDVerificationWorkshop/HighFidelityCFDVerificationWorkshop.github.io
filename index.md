@@ -20,6 +20,7 @@ The workshop will be held over two days January 6-7, 2024 in conjunction with Sc
     - Note: 18 December 2023 Early-Bird rate deadline 
     - Note: Reduced-price student registration!
 - See our [Agenda](agenda.md).
+- Presenters please reference our [presentation template](resources/HiFiCFDWorkshopPresentationGuidelines.pptx) for guidance on content and timing.
 
 ## **Test suites**
 
