@@ -12,7 +12,7 @@ title: High-Fidelity CFD Verification Workshop (SciTech 2024)
 - identifying pacing items in high-fidelity methods and peripheral tools that need additional research and development in order to proliferate in the CFD community
 - facilitating collaboration and enhance mutual understanding among CFD researchers and practitioners in academia, government, and industry
 
-## **2024 Workshop**
+## **2024 Workshop Logistics**
 
 The workshop will be held over two days January 6-7, 2024 in conjunction with SciTech 2024 in Orlando, Florida. 
 
