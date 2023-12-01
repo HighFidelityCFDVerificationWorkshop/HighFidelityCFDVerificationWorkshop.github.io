@@ -22,7 +22,7 @@ The workshop will be held over two days January 6-7, 2024 in conjunction with Sc
 - See our [Agenda](agenda.md).
 - Presenters please reference our [presentation template](resources/HiFiCFDWorkshopPresentationGuidelines.pptx) for guidance on content and timing.
 
-## **Test suites**
+## **Test suite descriptions**
 
 The workshop is structured as a collection of test suites in different technical areas. A special session was held at SciTech 2023 where each test suite documented their respective objectives and test campaigns. Those reference documents are accessible here:
 
@@ -30,6 +30,17 @@ The workshop is structured as a collection of test suites in different technical
 - [LES](papers/les.pdf)
 - [Mesh Motion](papers/mesh_motion.pdf)
 - [SuperHypersonic](papers/superhypersonic.pdf)
+
+
+## **Test suite repos**
+
+Each test suite is outfitted with it's own github repository to facilitate communication, data dissemination and collection. The repositories for individual test suites can be found at:
+
+- [RANS GitHub repo](https://github.com/HighFidelityCFDVerificationWorkshop/2024RANS)
+- [LES GitHub repo](https://github.com/HighFidelityCFDVerificationWorkshop/2024LES)
+- [Mesh Motion GitHub repo](https://github.com/HighFidelityCFDVerificationWorkshop/2024MeshMotion)
+- [SuperHypersonic GitHub repo](https://github.com/HighFidelityCFDVerificationWorkshop/2024SuperHypersonic)  
+
 
 
 ## **Participation and engagement**
@@ -47,17 +58,6 @@ Individual test suites meet regularly and are the perfect opportunity for intere
 - **Mesh Motion meetings:** First Wednesday of every month at 4:30pm US Eastern Time Zone. https://meet.google.com/gtj-uqum-mzu
 - **LES meetings:** First Monday of every month at 12pm (noon) US Eastern Time. https://umd.zoom.us/j/4487374796
 - **SuperHypersonic meetings:** Second Thursday of every month at 11am Eastern Time Zone. Please contact Matt Zahr (mzahr@nd.edu) or Kevin Holst (kevin.holst@utk.edu) for a virtual meeting link.
-
-
-## **Test suite resources**
-
-Each test suite is outfitted with it's own github repository to facilitate communication, data dissemination and collection. The repositories for individual test suites can be found at:
-
-- [RANS GitHub repo](https://github.com/HighFidelityCFDVerificationWorkshop/2024RANS)
-- [LES GitHub repo](https://github.com/HighFidelityCFDVerificationWorkshop/2024LES)
-- [Mesh Motion GitHub repo](https://github.com/HighFidelityCFDVerificationWorkshop/2024MeshMotion)
-- [SuperHypersonic GitHub repo](https://github.com/HighFidelityCFDVerificationWorkshop/2024SuperHypersonic)  
-
 
 
 
