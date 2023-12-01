@@ -9,3 +9,24 @@ title: Agenda
 <img src="/resources/HFCFDVW2024_Agenda.png" height="350"> 
 </center>
 
+
+
+
+# Day 1: Saturday, 6 January 2024
+
+
+- 07:15 - 08:00     Bagels + Coffee (Provided by AIAA)
+- 08:00 - 08:20     Welcome to the workshop! Nathan Wukie
+
+
+
+
+
+
+
+
+
+
+
+
+# Day 2: Sunday, 7 January 2024
