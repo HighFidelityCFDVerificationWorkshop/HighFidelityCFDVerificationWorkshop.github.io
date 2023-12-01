@@ -3,15 +3,13 @@ layout: page
 title: Agenda
 ---
 
-[HFCFDVW 2024 Agenda (pdf)](resources/HFCFDVW2024_Agenda.pdf)
-
 <center>
-<img src="/resources/HFCFDVW2024_Agenda.png" height="100"> 
+<img src="/resources/HFCFDVW2024_Agenda.png" height="200"> 
 </center>
 
-
-[Agenda Day 1](#day-1-saturday-6-january-2024)[
-[Agenda Day 2](#day-2-sunday-7-january-2024)[
+- [HFCFDVW 2024 Agenda (pdf)](resources/HFCFDVW2024_Agenda.pdf)
+- Jump to [Agenda Day 1](#day-1-saturday-6-january-2024)
+- Jump to [Agenda Day 2](#day-2-sunday-7-january-2024)
 
 
 # Day 1: Saturday, 6 January 2024
