@@ -14,7 +14,7 @@ title: Agenda
 
 # Day 1: Saturday, 6 January 2024
 
-| 7:15 - 8:00       |  Bagels + Coffee (Provided by AIAA)                       |
+| **7:15 - 8:00**   |  **Bagels + Coffee (Provided by AIAA)**                   |
 | 8:00 - 8:20       |  Welcome to the workshop! Nathan Wukie                    |
 |                   |                                                           |
 | **8:20 - 10:20**  | **Test suite: Steady Super/Hypersonic**                   |
