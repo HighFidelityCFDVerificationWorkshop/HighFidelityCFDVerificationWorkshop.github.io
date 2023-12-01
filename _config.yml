@@ -5,7 +5,7 @@ email: hfcfdw@gmail.com
 description: >
   An aerospace community effort towards verification of high-fidelity CFD methodologies.
 header_pages:
+  - agenda.md
   - guidelines.md
   - committee.md
   - previous.md
-  - agenda.md
