@@ -12,13 +12,6 @@ title: High-Fidelity CFD Verification Workshop (SciTech 2024)
 - identifying pacing items in high-fidelity methods and peripheral tools that need additional research and development in order to proliferate in the CFD community
 - facilitating collaboration and enhance mutual understanding among CFD researchers and practitioners in academia, government, and industry
 
-## **Workshop Format**
-
-- The workshop is organized into four test suites: Super/Hypersonic Flows, Mesh Motion, LES, RANS.
-- Each test suite has identified a set of test cases related to verification in their respective areas and have been worked to address identified challenges since SciTech 2023.
-- At the workshop, each test suite will give an overview presentation, followed by brief individual presentations from participants providing details of their numerical methodologies. Finally the test suite leads will present summarized results and an outlook for verification in their technical area.
-- Ample time for discussion is scheduled to deliberate over results, methodologies, and outstanding challenges related to verification.
-
 ## **2024 Workshop Logistics**
 
 The workshop will be held over two days January 6-7, 2024 in conjunction with SciTech 2024 in Orlando, Florida. 
@@ -28,6 +21,13 @@ The workshop will be held over two days January 6-7, 2024 in conjunction with Sc
     - Note: Reduced-price student registration!
 - See our [Agenda](agenda.md).
 - Presenters please reference our [presentation template](resources/HiFiCFDWorkshopPresentationGuidelines.pptx) for guidance on content and timing.
+
+## **Workshop Format**
+
+- The workshop is organized into four test suites: Super/Hypersonic Flows, Mesh Motion, LES, RANS.
+- Each test suite has identified a set of test cases related to verification in their respective areas and have been worked to address identified challenges since SciTech 2023.
+- At the workshop, each test suite will give an overview presentation, followed by brief individual presentations from participants providing details of their numerical methodologies. Finally the test suite leads will present summarized results and an outlook for verification in their technical area.
+- Ample time for discussion is scheduled to deliberate over results, methodologies, and outstanding challenges related to verification.
 
 ## **Test suite descriptions**
 
