@@ -22,7 +22,7 @@ title: Agenda
 | 9:00 - 9:10       | Brad Maeng - Sandia National Laboratories                     |
 | 9:10 - 9:20       | Jaehyeon Park - Gwangju Institute of Science and Tech.        |
 | 9:20 - 9:30       | William White - University of Michigan                        |
-| 9:30 - 9:40       | Kevin Holst (for Matt Zahr) - University of Notre Dame        |
+| 9:30 - 9:40       | Dongseok Kim - Seoul National University                      |
 |                   |                                                               |
 | **9:40 - 10:00**  | **Break**                                                     |
 |                   |                                                               |
